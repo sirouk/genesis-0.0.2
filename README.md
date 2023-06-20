@@ -30,9 +30,9 @@ You'll want to do "release" builds of everything. Grab a cup.
 Pro tip: double check your system installs. If you missed any of the system installs above, you'll be waiting a long time to find out.
 
 ```
-git clone git@github.com:0o-de-lally/libra-v7.git
+git clone git@github.com:0LNetworkCommunity/libra-v7.git
 cd libra-v7
-git checkout release-0.6.9
+git checkout main
 
 cargo build --release -p libra -p libra-genesis-tools
 ```
