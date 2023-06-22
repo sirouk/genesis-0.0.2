@@ -1,6 +1,7 @@
 root_key: "0xbc7ea5e587b95161eb80ee86fe8501858e7a15aa97e15b385e4bfba9f81eb2ef"
 users:
-
+ - 0x2f544d242836d83a3f8853e1956935518211f452baa248cbab103474f6f47a43
+ - 0x70b52829c075ec7ed2ea74b97e92d954d5d5dd28c358060e7600191ec8f515
 chain_id: 4
 allow_new_validators: true
 epoch_duration_secs: 120
